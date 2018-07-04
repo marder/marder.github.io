@@ -1,0 +1,11 @@
+{
+  "name": "marder.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marder/marder.github.io.git",
+  "author": "marder <iwashier@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babylonjs": "^3.2.0"
+  }
+}
